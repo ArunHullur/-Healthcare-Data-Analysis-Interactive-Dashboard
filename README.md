@@ -1,5 +1,4 @@
-
-# 📊 Loan & Financial Analysis Dashboard
+# 📊 Loan & Financial Analysis Dashbord
 
 ## 📌 Project Overview
 This project analyzes loan and financial data to evaluate loan performance, risk levels, and default trends. The dashboards help in understanding portfolio health and support data-driven decision-making.
